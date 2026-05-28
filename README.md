@@ -1,10 +1,22 @@
-# HR-Analytics-Dashboard-using-Tableau
+# HR Analytics Dashboard using Tableau
 
-An HR Analytics Dashboard is a data visualization tool used to analyze and monitor important human resource metrics such as employee count, attrition rate, department-wise performance, salary trends, attendance, recruitment, and employee satisfaction.
+This project is an interactive HR Analytics Dashboard developed using Tableau. 
+The dashboard provides insights into employee attrition, workforce demographics, salary analysis, and department-wise employee distribution.
+The dashboard helps organizations understand employee trends and supports data-driven HR decision-making through interactive visualizations and reports.
 
-The dashboard helps organizations make data-driven decisions by converting raw HR data into meaningful insights using charts, graphs, and KPIs. It improves workforce planning, employee management, and overall business performance.
+## Features
+### • Employee Attrition Analysis
+### • Department-wise Employee Distribution
+### • Gender Ratio Visualization
+### • Salary Analysis by Department
+### • Age Group Analysis
+### • Interactive Filters and Dashboard Reporting
 
 ## Tools Used
-### Microsoft Excel
-### SQL
-### Tableau
+### • Tableau
+### • CSV Dataset
+### • Data Visualization Techniques
+
+## Conclusion
+The dashboard helps analyze employee trends, workforce distribution, and attrition patterns through interactive visualizations and reports. 
+This project demonstrates practical knowledge of Tableau and HR data analytics concepts.
